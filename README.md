@@ -1,5 +1,5 @@
 ## Utilizando as ferramentas do Github e o ChatGPT para solucionar algoritmos em Python
-:one: Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string <br>
+:one:  Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string <br>
 ### Solicita o primeiro dado do usuário
 dado1 = input("Digite o primeiro dado: ")
 
@@ -15,7 +15,7 @@ print("A string concatenada é:", resultado)
 <br>
 ########################################################################## 
 <br>
-2️⃣:Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado
+2️⃣ Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado
 ### Solicita uma string do usuário
 string = input("Digite uma string: ")
 
@@ -31,7 +31,7 @@ print("A string repetida é:", resultado)
 <br>
 ############################################################################
 <br>
-:three: Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação
+3️⃣  Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação
 ### Solicita um número inteiro do usuário
 numero = int(input("Digite um número inteiro: "))
 
@@ -43,7 +43,7 @@ else:
 <br>
 #################################################################################<br>
 <br>
-4️⃣: Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
+4️⃣  Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
 ### Solicita uma palavra do usuário
 palavra = input("Digite uma palavra: ")
 
