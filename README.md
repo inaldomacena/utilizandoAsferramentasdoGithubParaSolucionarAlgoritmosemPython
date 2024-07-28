@@ -1,5 +1,5 @@
 ## Utilizando as ferramentas do Github e o ChatGPT para solucionar algoritmos em Python
-1- Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string
+1- Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string <br>
 ## Solicita o primeiro dado do usuário
 dado1 = input("Digite o primeiro dado: ")
 
@@ -35,11 +35,11 @@ if numero % 2 == 0:
 else:
     print(f"O número {numero} é ímpar.")
 #################################################################################<br>
-4- Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+4- Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
 ## Solicita uma palavra do usuário
 palavra = input("Digite uma palavra: ")
 
-## Remove espaços e converte para minúsculas para comparação correta
+## Remove espaços e converte para minúsculas para comparação correta   <br>
 palavra = palavra.replace(" ", "").lower()
 
 ## Inverte a palavra
