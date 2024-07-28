@@ -1,5 +1,5 @@
 ## Utilizando as ferramentas do Github e o ChatGPT para solucionar algoritmos em Python
-:one: _Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string_ <br>
+:one: _Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string._ <br>
 #### Solicita o primeiro dado do usuário
 dado1 = input("Digite o primeiro dado: ")
 
@@ -15,7 +15,7 @@ print("A string concatenada é:", resultado)
 <br>
 ########################################################################## 
 <br>
-2️⃣ _Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado_
+2️⃣ _Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado._
 #### Solicita uma string do usuário
 string = input("Digite uma string: ")
 
@@ -31,7 +31,7 @@ print("A string repetida é:", resultado)
 <br>
 ############################################################################
 <br>
-3️⃣ _Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação_
+3️⃣ _Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação._
 #### Solicita um número inteiro do usuário
 numero = int(input("Digite um número inteiro: "))
 
