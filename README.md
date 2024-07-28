@@ -1,5 +1,5 @@
 ## Utilizando as ferramentas do Github e o ChatGPT para solucionar algoritmos em Python
-:one:  *italico* Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string *italico* <br>
+:one:  * Descrição: Escreva um codigo na linguagem python que receba dois dados diferentes do usuário e concatene em uma única string * <br>
 #### Solicita o primeiro dado do usuário
 dado1 = input("Digite o primeiro dado: ")
 
