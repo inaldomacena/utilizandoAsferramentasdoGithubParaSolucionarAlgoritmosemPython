@@ -10,7 +10,7 @@ dado2 = input("Digite o segundo dado: ")
 resultado = dado1 + " " + dado2
 
 ## Exibe o resultado concatenado
-print("A string concatenada é:", resultado)
+print("A string concatenada é:", resultado)  <br>
 ########################################################################## <br>
 2-Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado
 ## Solicita uma string do usuário
@@ -23,7 +23,7 @@ numero = int(input("Digite um número inteiro: "))
 resultado = string * numero
 
 ## Exibe o resultado
-print("A string repetida é:", resultado)
+print("A string repetida é:", resultado)          <br>
 ############################################################################<br>
 3- Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação
 ## Solicita um número inteiro do usuário
@@ -33,7 +33,7 @@ numero = int(input("Digite um número inteiro: "))
 if numero % 2 == 0:
     print(f"O número {numero} é par.")
 else:
-    print(f"O número {numero} é ímpar.")
+    print(f"O número {numero} é ímpar.")           <br>
 #################################################################################<br>
 4- Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
 ## Solicita uma palavra do usuário
