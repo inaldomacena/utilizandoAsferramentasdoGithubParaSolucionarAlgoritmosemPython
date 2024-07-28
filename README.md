@@ -15,7 +15,7 @@ print("A string concatenada é:", resultado)
 <br>
 ########################################################################## 
 <br>
-2-Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado
+2️⃣:Descrição: solicite uma string e um número inteiro em python  como entrada. Depois  retorne a string repetida o número de vezes informado
 ### Solicita uma string do usuário
 string = input("Digite uma string: ")
 
@@ -31,7 +31,7 @@ print("A string repetida é:", resultado)
 <br>
 ############################################################################
 <br>
-3- Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação
+:three: Descrição: Utilizando Python receba um número inteiro como entrada e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação
 ### Solicita um número inteiro do usuário
 numero = int(input("Digite um número inteiro: "))
 
@@ -43,7 +43,7 @@ else:
 <br>
 #################################################################################<br>
 <br>
-4- Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
+4️⃣: Descrição:Em python teste se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.<br>
 ### Solicita uma palavra do usuário
 palavra = input("Digite uma palavra: ")
 
